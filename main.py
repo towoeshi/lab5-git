@@ -231,6 +231,7 @@ def get_default_data():
 #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
 # очень важный комментарий
 def main():
+    print("feature two")
     collection = TaskCollection()
     print("feature one")
     while True:
