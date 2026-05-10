@@ -228,12 +228,11 @@ def get_default_data():
                           "Обновление документации", "Кузнецов Алексей Дмитриевич", 85))
     return collection
 
-
+#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
+# очень важный комментарий
 def main():
-    #print("Design update")
     collection = TaskCollection()
 
-    #print("Login feature")
     while True:
         print("\nМеню программы")
         print("1. Просмотреть файлы директории")
