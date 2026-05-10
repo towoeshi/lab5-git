@@ -369,9 +369,8 @@ def main():
             print(repr(collection))
 
         elif inp == "0":
-            print("Программа завершена c ошибкой.")
+            print("Программа завершена успешно.")
             break
-
         else:
             print("Неверный ввод. Попробуйте снова.\n")
 
