@@ -228,7 +228,6 @@ def get_default_data():
                           "Обновление документации", "Кузнецов Алексей Дмитриевич", 85))
     return collection
 
-#
 # очень важный комментарий
 def main():
     print("feature two")
