@@ -369,7 +369,7 @@ def main():
             print(repr(collection))
 
         elif inp == "0":
-            print("Программа завершена.")
+            print("Программа завершена успешно.")
             break
 
         else:
