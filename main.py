@@ -232,7 +232,7 @@ def get_default_data():
 # очень важный комментарий
 def main():
     collection = TaskCollection()
-
+    print("feature one")
     while True:
         print("\nМеню программы")
         print("1. Просмотреть файлы директории")
